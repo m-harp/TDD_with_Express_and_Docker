@@ -1,0 +1,353 @@
+[
+  {
+    "id": 0,
+    "title": "Straloy",
+    "author": "Mavis Henderson",
+    "isbnNumber": "3,442",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  },
+  {
+    "id": 1,
+    "title": "Kidgrease",
+    "author": "Marla Carr",
+    "isbnNumber": "2,322",
+    "isCheckedOut": false,
+    "checkedOutBy": 2,
+    "dateDue": ""
+  },
+  {
+    "id": 2,
+    "title": "Utara",
+    "author": "Simon Dorsey",
+    "isbnNumber": "3,716",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  },
+  {
+    "id": 3,
+    "title": "Maxemia",
+    "author": "Newman Barr",
+    "isbnNumber": "2,310",
+    "isCheckedOut": false,
+    "checkedOutBy": 4,
+    "dateDue": ""
+  },
+  {
+    "id": 4,
+    "title": "Snowpoke",
+    "author": "Ruiz Peterson",
+    "isbnNumber": "2,960",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  },
+  {
+    "id": 5,
+    "title": "Kozgene",
+    "author": "Justice Boyer",
+    "isbnNumber": "1,739",
+    "isCheckedOut": false,
+    "checkedOutBy": 4,
+    "dateDue": ""
+  },
+  {
+    "id": 6,
+    "title": "Quarmony",
+    "author": "Geraldine Wilder",
+    "isbnNumber": "1,333",
+    "isCheckedOut": false,
+    "checkedOutBy": 2,
+    "dateDue": ""
+  },
+  {
+    "id": 7,
+    "title": "Twiist",
+    "author": "Richard Meyer",
+    "isbnNumber": "2,774",
+    "isCheckedOut": false,
+    "checkedOutBy": 3,
+    "dateDue": ""
+  },
+  {
+    "id": 8,
+    "title": "Futuris",
+    "author": "Beard Vincent",
+    "isbnNumber": "1,343",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  },
+  {
+    "id": 9,
+    "title": "Polarium",
+    "author": "Chan Williams",
+    "isbnNumber": "3,358",
+    "isCheckedOut": false,
+    "checkedOutBy": 1,
+    "dateDue": ""
+  },
+  {
+    "id": 10,
+    "title": "Gronk",
+    "author": "Nannie Cantrell",
+    "isbnNumber": "1,511",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  },
+  {
+    "id": 11,
+    "title": "Earwax",
+    "author": "Larson Pennington",
+    "isbnNumber": "3,584",
+    "isCheckedOut": false,
+    "checkedOutBy": 3,
+    "dateDue": ""
+  },
+  {
+    "id": 12,
+    "title": "Updat",
+    "author": "Kirby Greene",
+    "isbnNumber": "3,198",
+    "isCheckedOut": false,
+    "checkedOutBy": 2,
+    "dateDue": ""
+  },
+  {
+    "id": 13,
+    "title": "Indexia",
+    "author": "Butler Bradford",
+    "isbnNumber": "1,349",
+    "isCheckedOut": false,
+    "checkedOutBy": 1,
+    "dateDue": ""
+  },
+  {
+    "id": 14,
+    "title": "Multron",
+    "author": "Nelson Mccarty",
+    "isbnNumber": "2,864",
+    "isCheckedOut": false,
+    "checkedOutBy": 1,
+    "dateDue": ""
+  },
+  {
+    "id": 15,
+    "title": "Speedbolt",
+    "author": "Aurora Fitzgerald",
+    "isbnNumber": "3,756",
+    "isCheckedOut": false,
+    "checkedOutBy": 4,
+    "dateDue": ""
+  },
+  {
+    "id": 16,
+    "title": "Deviltoe",
+    "author": "Paulette Summers",
+    "isbnNumber": "3,177",
+    "isCheckedOut": false,
+    "checkedOutBy": 4,
+    "dateDue": ""
+  },
+  {
+    "id": 17,
+    "title": "Ezentia",
+    "author": "Mcleod Wong",
+    "isbnNumber": "3,495",
+    "isCheckedOut": false,
+    "checkedOutBy": 2,
+    "dateDue": ""
+  },
+  {
+    "id": 18,
+    "title": "Songlines",
+    "author": "Tamera Brock",
+    "isbnNumber": "1,027",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  },
+  {
+    "id": 19,
+    "title": "Fishland",
+    "author": "Fischer Berry",
+    "isbnNumber": "3,216",
+    "isCheckedOut": false,
+    "checkedOutBy": 1,
+    "dateDue": ""
+  },
+  {
+    "id": 20,
+    "title": "Bitendrex",
+    "author": "Noelle Stevenson",
+    "isbnNumber": "2,026",
+    "isCheckedOut": false,
+    "checkedOutBy": 3,
+    "dateDue": ""
+  },
+  {
+    "id": 21,
+    "title": "Manufact",
+    "author": "Guthrie Reynolds",
+    "isbnNumber": "3,747",
+    "isCheckedOut": false,
+    "checkedOutBy": 3,
+    "dateDue": ""
+  },
+  {
+    "id": 22,
+    "title": "Netplax",
+    "author": "Kathie Carter",
+    "isbnNumber": "1,909",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  },
+  {
+    "id": 23,
+    "title": "Zolarex",
+    "author": "Heath Nolan",
+    "isbnNumber": "2,367",
+    "isCheckedOut": false,
+    "checkedOutBy": 4,
+    "dateDue": ""
+  },
+  {
+    "id": 24,
+    "title": "Exiand",
+    "author": "Patterson Santana",
+    "isbnNumber": "1,600",
+    "isCheckedOut": false,
+    "checkedOutBy": 3,
+    "dateDue": ""
+  },
+  {
+    "id": 25,
+    "title": "Accupharm",
+    "author": "Perez Kent",
+    "isbnNumber": "2,894",
+    "isCheckedOut": false,
+    "checkedOutBy": 4,
+    "dateDue": ""
+  },
+  {
+    "id": 26,
+    "title": "Optique",
+    "author": "Verna Gay",
+    "isbnNumber": "1,659",
+    "isCheckedOut": false,
+    "checkedOutBy": 4,
+    "dateDue": ""
+  },
+  {
+    "id": 27,
+    "title": "Earthpure",
+    "author": "Delacruz Madden",
+    "isbnNumber": "1,282",
+    "isCheckedOut": false,
+    "checkedOutBy": 3,
+    "dateDue": ""
+  },
+  {
+    "id": 28,
+    "title": "Mangelica",
+    "author": "Brandy Whitfield",
+    "isbnNumber": "2,551",
+    "isCheckedOut": false,
+    "checkedOutBy": 1,
+    "dateDue": ""
+  },
+  {
+    "id": 29,
+    "title": "Slambda",
+    "author": "Marcia Valentine",
+    "isbnNumber": "2,290",
+    "isCheckedOut": false,
+    "checkedOutBy": 1,
+    "dateDue": ""
+  },
+  {
+    "id": 30,
+    "title": "Fossiel",
+    "author": "Travis Malone",
+    "isbnNumber": "1,410",
+    "isCheckedOut": false,
+    "checkedOutBy": 2,
+    "dateDue": ""
+  },
+  {
+    "id": 31,
+    "title": "Eargo",
+    "author": "Caroline Donaldson",
+    "isbnNumber": "1,084",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  },
+  {
+    "id": 32,
+    "title": "Quantasis",
+    "author": "Gertrude Larson",
+    "isbnNumber": "3,817",
+    "isCheckedOut": false,
+    "checkedOutBy": 3,
+    "dateDue": ""
+  },
+  {
+    "id": 33,
+    "title": "Mobildata",
+    "author": "Hensley Mercado",
+    "isbnNumber": "2,957",
+    "isCheckedOut": false,
+    "checkedOutBy": 4,
+    "dateDue": ""
+  },
+  {
+    "id": 34,
+    "title": "Zilphur",
+    "author": "Marcella Burke",
+    "isbnNumber": "2,805",
+    "isCheckedOut": false,
+    "checkedOutBy": 2,
+    "dateDue": ""
+  },
+  {
+    "id": 35,
+    "title": "Endipin",
+    "author": "Klein Stevens",
+    "isbnNumber": "2,559",
+    "isCheckedOut": false,
+    "checkedOutBy": 1,
+    "dateDue": ""
+  },
+  {
+    "id": 36,
+    "title": "Ludak",
+    "author": "Jewell Carrillo",
+    "isbnNumber": "2,688",
+    "isCheckedOut": false,
+    "checkedOutBy": 3,
+    "dateDue": ""
+  },
+  {
+    "id": 37,
+    "title": "Autograte",
+    "author": "Guadalupe Stewart",
+    "isbnNumber": "1,551",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  },
+  {
+    "id": 38,
+    "title": "Xeronk",
+    "author": "Roberts Downs",
+    "isbnNumber": "2,249",
+    "isCheckedOut": false,
+    "checkedOutBy": 0,
+    "dateDue": ""
+  }
+]
