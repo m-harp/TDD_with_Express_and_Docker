@@ -2,6 +2,14 @@ version: '3'
 
 services:
   library:
-    build: ./
+    build: ./api
+    ports:
+      - '3001:3001'
+
+  ui:
+    build: ./ui
     ports:
       - '3000:3000'
+    volumes:
+      - './ui:/app'
+      - '/app/node_modules'
