@@ -1,0 +1,15 @@
+
+.bookContainer {
+   display: flex;
+   flex-wrap: wrap;
+   grid-column-start: 2;
+}
+
+.book {
+    margin: 5px;
+    padding-left: 12px;
+    padding-right: 15px;
+    background-image: url("Book2.png");
+    background-size: 100% 100%;
+
+}

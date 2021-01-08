@@ -1,12 +1,15 @@
 const express = require("express");
 const users = require("./users.json");
 const books = require("./books.json");
+const cors = require('cors');
 
 const app = express();
 
 const DEFAULT_LISTEN_PORT = 3001;
 
 app.use(express.json());
+app.use(cors());
+
 
 app.get("/api/books", (req, res) => {
     var catalog = [];

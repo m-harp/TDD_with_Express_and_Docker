@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 600px 1fr;
 }
 
 .App-logo {
@@ -28,6 +30,15 @@
   color: #61dafb;
 }
 
+.button {
+  grid-column-start: 2;
+
+}
+
+.SortBar {
+  grid-column-start: 2;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +46,5 @@
   to {
     transform: rotate(360deg);
   }
+  
 }

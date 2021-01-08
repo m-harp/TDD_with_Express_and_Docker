@@ -1,4 +1,3 @@
-import { render, screen } from '@testing-library/react';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from '../App';
@@ -18,8 +17,12 @@ describe('the app component', () => {
     const wrapper = shallow(<App />)
     expect(wrapper.find(Book)).toHaveLength(1)
 
-  })
-})
+  });
+
+  //it('should render the list of every book', () => {});
+    
+  
+});
 
 // test('renders learn react link', () => {
 //   render(<App />);
